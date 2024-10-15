@@ -1,0 +1,6 @@
+Letra a: O próximo número será 9.
+Letra b: O próximo número será 128.
+Letra c: O próximo número será 49.
+Letra d: O próximo número será 100.
+Letra e: O próximo número será 13.
+Letra f: O próximo número será 20.
